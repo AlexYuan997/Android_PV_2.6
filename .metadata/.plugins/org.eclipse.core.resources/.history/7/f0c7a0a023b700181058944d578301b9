@@ -1,0 +1,13 @@
+package cn.rivamed.Utils;
+
+public class CloseSource {
+	
+	
+	public void closeThreadPoolAndStream() {
+		// TODO Auto-generated method stub
+		
+		
+
+	}
+
+}

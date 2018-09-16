@@ -1,0 +1,25 @@
+package cn.Rivamed.demo;
+
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+
+public class ReciveUDP {
+	
+	public static void reciveUDP()throws Exception{
+		
+		
+		
+		DatagramSocket datagramSocket=new DatagramSocket(10000);
+		
+		DatagramPacket datagramPacket=new DatagramPacket();
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

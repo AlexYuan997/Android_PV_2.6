@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_androidmarker.png.flat",
+        "source": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\src\\main\\res\\drawable\\androidmarker.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\AndroidCode\\doubleUsbCamera-master\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

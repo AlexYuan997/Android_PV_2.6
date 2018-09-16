@@ -1,0 +1,8 @@
+
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ñ‹èçÜ,HÑRBLOCKERZBUG
+_squid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ÚËıçÜ,H²RMINORZVULNERABILITY
+ysquid:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(…¸²Ö8®¢ÿçÜ,H±RBLOCKERZBUG
+vsquid:S2259"DA "NullPointerException" could be thrown; "server" is nullable here.(êíšÇÿÿÿÿÿ8¾÷’Šİ,H«RMAJORZBUG
+jsquid:S1135$"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8®¢ÿçÜ,H€RINFOZ
+CODE_SMELL
+_squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8®¢ÿçÜ,H°RMINORZVULNERABILITY

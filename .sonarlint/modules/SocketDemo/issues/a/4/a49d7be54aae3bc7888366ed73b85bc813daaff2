@@ -1,0 +1,17 @@
+
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8Æ¶—»Ü,HžRMINORZ
+CODE_SMELL
+wsquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿ8ÖÙ¨ºÜ,H—RMINORZ
+CODE_SMELL
+€squid:UselessImportCheck":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8°¢¯ºÜ,H²RMINORZ
+CODE_SMELL
+}squid:UselessImportCheck"7Remove this unused import 'javax.net.ssl.SSLException'.(ûÉž¿ûÿÿÿÿ8˜Ì±ºÜ,H¸RMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ùÍÍªøÿÿÿÿHÀRMINORZ
+CODE_SMELL
+xsquid:UselessImportCheck"2Remove this unused import 'java.net.Inet4Address'.(ê…ÉÃúÿÿÿÿ8ÖÙ¨ºÜ,H˜RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§äÎ¦8ŽÀ¤ÁÜ,HÐRMAJORZ
+CODE_SMELL
+zsquid:UselessImportCheck"9Remove this unused import 'cn.Rivamed.tcpdemo.TCPClient'.(“ËÊý8ŽÀ¤ÁÜ,HÑRMINORZ
+CODE_SMELL

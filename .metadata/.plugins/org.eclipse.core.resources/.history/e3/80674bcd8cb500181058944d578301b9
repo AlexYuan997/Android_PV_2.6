@@ -1,0 +1,24 @@
+package cn.Rivamed.demo;
+
+import java.net.DatagramSocket;
+import java.net.SocketException;
+import java.util.Scanner;
+
+public class SendUDP {
+	
+	
+	public static void sendUDP() throws SocketException {
+		// TODO Auto-generated method stub
+		Scanner scanner=new Scanner(System.in);
+		
+		DatagramSocket datagramSocket=new DatagramSocket();
+		
+		while(true){
+			Stirng message=scanner.nextLine();
+			
+			
+		}
+
+	}
+
+}

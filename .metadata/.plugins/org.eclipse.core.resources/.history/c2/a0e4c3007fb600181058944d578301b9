@@ -1,0 +1,8 @@
+package cn.rivamed.Utils;
+
+public class Fields {
+	
+	
+	public final static  String COMOK="comok";
+
+}

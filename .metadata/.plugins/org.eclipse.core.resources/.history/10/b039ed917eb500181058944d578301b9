@@ -1,0 +1,25 @@
+package cn.Rivamed.Addresss;
+
+import java.io.IOException;
+import java.net.InetAddress;
+import java.net.Socket;
+
+public class SendSeverce {
+	Socket socket;
+	
+	private void sendUDPPacket() {
+		// TODO Auto-generated method stub
+		
+		try {
+		 socket=new Socket(InetAddress.getLocalHost(), 10000);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
+
+	}
+
+}

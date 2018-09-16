@@ -1,0 +1,10 @@
+package cn.Rivamed.tcpdemo1;
+
+public class TCPClientForFile {
+	
+	public static void sendTCP() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,34 @@
+
+Tsquid:S2129" Remove this "String" constructor(È«®ü8›¹‡´Ü,H–RMAJORZ
+CODE_SMELL
+€squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£öÏşÿÿÿÿHRMINORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(Ù°ÄHRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã°àèûÿÿÿÿ8ÊÓ‚´Ü,HRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(  ¬„HRMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(Œ™ô‚ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+{squid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÜ½…HRMINORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(Ú°à¬HRMAJORZ
+CODE_SMELL
+{squid:S00100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òî®HRMINORZ
+CODE_SMELL
+Tsquid:S2129" Remove this "String" constructor(È«®ü8Ëöˆ´Ü,HŸRMAJORZ
+CODE_SMELL
+{squid:S001008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÄ®ÆHRMINORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¶àª HRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(º¸Ş¨H
+RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(‰í‹ÄÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Ú°à¬HRMAJORZ
+CODE_SMELL
+{squid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò×ÏÉHRMINORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+package cn.rivamed.Utils;
+
+import java.io.Closeable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class ThreadPool {
+
+	private static ExecutorService executorService = Executors.newFixedThreadPool(20);
+
+	public static ExecutorService getExecutorService() {
+		return executorService;
+	}
+
+	public static void setExecutorService(ExecutorService executorService) {
+		ThreadPool.executorService = executorService;
+	}
+
+	public static void closeThred() {
+		executorService.shutdown();
+	}
+
+}

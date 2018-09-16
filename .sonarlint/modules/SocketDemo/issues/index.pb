@@ -1,0 +1,21 @@
+
+Y
+)src/cn/Rivamed/Addresss/getUDPPacket.java,c\b\cb58345c5e0d5428cc22d042340692d90b9648ec
+X
+(src/cn/Rivamed/Addresss/SendSeverce.java,4\9\497c054477301f819d8b9252481baf22a3808d5e
+\
+,src/cn/Rivamed/Addresss/ReciveUDPPacket.java,8\7\870e852c4993df6a437e5d8a50db775b6447f418
+R
+"src/cn/Rivamed/demo/ReciveUDP.java,c\f\cf2ebc38828f8272bda613f43e82acf9e0026ace
+P
+ src/cn/Rivamed/demo/SendUDP.java,6\3\636fc4eb82bb47a48b0db8ed09ac1d34ac2e4775
+[
++src/cn/Rivamed/Addresss/GetAddressPort.java,a\4\a49d7be54aae3bc7888366ed73b85bc813daaff2
+]
+-src/cn/Rivamed/tcpdemo1/TCPClientForFile.java,d\e\debc82f897272f7fafb9f8a2be70502c936ae5f6
+]
+-src/cn/Rivamed/tcpdemo1/TCPServerForFile.java,e\5\e5e6405f502a86cac1f85928680d5f9e54014dd3
+U
+%src/cn/Rivamed/tcpdemo/TCPClient.java,a\b\abbbbc149aad086fc5495410e98de2e08d4ff047
+U
+%src/cn/Rivamed/tcpdemo/TCPServer.java,9\e\9eb06eb49e8500847d3c79ecf3b31bbfb80f361b

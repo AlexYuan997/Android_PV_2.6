@@ -1,0 +1,11 @@
+package cn.rivamed.Utils;
+
+public class UtilsFields {
+	
+	
+	public final static  String COMOK="comok";
+	
+	//ָ�
+	public final static  String CONNECT="connect";
+
+}

@@ -1,0 +1,8 @@
+
+Osquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿHóRBLOCKERZBUG
+tsquid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¡ß°ÂHôRBLOCKERZBUG
+^squid:S1313".Make this IP "127.0.0.1" address configurable.(íŽ•­HõRMINORZVULNERABILITY
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Ø–€ýÿÿÿÿHöRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øò¤öþÿÿÿÿH÷RMAJORZ
+CODE_SMELL

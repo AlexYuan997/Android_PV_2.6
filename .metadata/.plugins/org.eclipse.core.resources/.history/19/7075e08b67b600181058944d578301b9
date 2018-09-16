@@ -1,0 +1,82 @@
+package cn.rivamed.mode1;
+
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+import cn.rivamed.Utils.Utils;
+
+public class TCPServer {
+
+	private static byte[] b = new byte[3];
+
+	static {
+
+		b[0] = (byte) 0XFF;
+		b[1] = (byte) 0XFF;
+		b[2] = (byte) 0XFF;
+	}
+
+	public static void sendCommnd() {
+		Socket socket = null;
+		InputStream inputStream = null;
+		OutputStream outputStream = null;
+
+
+		try {
+			ServerSocket serverSocket=new ServerSocket(8014);//监听端口
+			Socket socket=serverSocket.accept();
+			inputStream=serverSocket.
+			
+			
+//			outputStream = socket.getOutputStream();
+//			outputStream.write(b);// 先发三个0XFF
+
+			String command = "connect";
+			String string = Utils.toUTF8(command);
+			byte[] bs = string.getBytes();
+			byte[] bcs = Utils.arrysCombine(bs, b);
+			outputStream.write(bcs);//发连接指令
+			
+			
+			
+
+			byte[] len = new byte[1024];
+			inputStream = socket.getInputStream();
+			inputStream.read(b, 0, len.length);//读取获取服务端信息
+
+			System.out.println(new String(len, 0, len.length));
+
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		try {
+			inputStream.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			try {
+				outputStream.close();
+			} catch (Exception e2) {
+				// TODO: handle exception
+				try {
+					socket.close();
+				} catch (Exception e3) {
+					// TODO: handle exception
+
+					System.out.println(e3.getMessage());
+				}
+			}
+		}
+
+	}
+
+	public static void main(String[] args) {
+	TCPServer.sendCommnd();
+	}
+
+}

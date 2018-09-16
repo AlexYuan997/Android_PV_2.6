@@ -1,0 +1,14 @@
+
+}squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(º»ÇüÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ùÅ¨HÇRMAJORZ
+CODE_SMELL
+e
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¶Áž«HÈRMAJORZ
+CODE_SMELL
+j
+squid:S106*"9Replace this use of System.out or System.err by a logger.(‡÷æúÿÿÿÿHÉRMAJORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û³ “HÊRMINORZ
+CODE_SMELL

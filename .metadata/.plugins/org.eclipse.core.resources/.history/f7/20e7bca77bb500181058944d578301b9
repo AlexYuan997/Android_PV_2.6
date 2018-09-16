@@ -1,0 +1,12 @@
+package cn.Rivamed.Addresss;
+
+import java.net.Inet4Address;
+import java.net.UnknownHostException;
+
+public class GetAddressPort {
+	
+	public static void main(String[] args) throws UnknownHostException {
+		Inet4Address address= Inet4Address.getLocalHost();
+	}
+
+}

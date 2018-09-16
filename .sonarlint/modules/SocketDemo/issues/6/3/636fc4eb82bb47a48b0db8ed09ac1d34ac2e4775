@@ -1,0 +1,13 @@
+
+€squid:UselessImportCheck":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8¨ÁåºÜ,HòRMINORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8‚“ÜºÜ,HÖRINFOZ
+CODE_SMELL
+€squid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ8ŒƒäºÜ,HåRBLOCKERZBUG
+{squid:UselessImportCheck"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ8¨ÁåºÜ,HñRMINORZ
+CODE_SMELL
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8‚“ÜºÜ,HÕRBLOCKERZBUG
+…squid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ê—–ÉHĞRMINORZ
+CODE_SMELL
+ssquid:S1118":Add a private constructor to hide the implicit public one.(ôØÓûÿÿÿÿ8‚“ÜºÜ,HÙRMAJORZ
+CODE_SMELL

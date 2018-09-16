@@ -1,0 +1,77 @@
+package cn.rivamed.interfacemode;
+
+public abstract class BaseClient {
+
+    	
+    public void	 getIp() {
+		}
+    public void	 	setIp() {
+		}
+    	
+
+
+//    public abstract String RemoteAddress ();
+
+
+
+
+
+        Thread thread;
+
+        public boolean KeepRecive () {
+			return false;
+		}
+
+
+        public BaseClient()
+        {
+//        	tcpClient.Client = tcpClient;
+//        	tcpClient.IP = ((System.Net.IPEndPoint)(Client.Client.RemoteEndPoint)).Address.ToString();
+//        	tcpClient.RemoteAddress = ((System.Net.IPEndPoint)(Client.Client.RemoteEndPoint)).ToString();
+//            thread = new Thread(ReciveDatas);
+//            thread.Start();
+        }
+
+
+		public   void ReciveDatas()    //复苏的数据
+        {
+//			BaseClient.  KeepRecive() = true;
+        }
+
+
+        protected void Send2Client(byte[] buf)        //发送协议
+        {
+//            this.Client.GetStream().Write(buf, 0, buf.Length);
+        }
+
+        public  void Release()         //释放支援
+        {
+//            KeepRecive = false;
+//            Client.Client.Close();
+//            this.OnDisconnected();
+        }
+
+//        public event EventHandler Disconnected;
+
+        protected  void OnDisconnected()
+        {
+//            this.Disconnected?.Invoke(this, EventArgs.Empty);
+        }
+
+//        public event EventHandler<LogArgs> Logged;
+        
+        
+//        protected void OnLogged(string log, bool error)
+//        {
+//            LogArgs e = new LogArgs(log, error);
+//            this.Logged?.Invoke(this, e);
+//        }
+        
+        
+//        protected void OnLogged(String log)
+//        {
+//            LogArgs e = new LogArgs(log);
+//            this.Logged?.Invoke(this, e);
+//        }
+    }
+

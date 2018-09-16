@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SendSeverce.java&apos; to &apos;SocketDemo/src/cn.Rivamed.Addresss&apos;&#x0D;&#x0A;- Original project: &apos;SocketDemo&apos;&#x0D;&#x0A;- Destination element: &apos;SocketDemo/src/cn.Rivamed.Addresss&apos;&#x0D;&#x0A;- Original element: &apos;cn.Rivamed.Addresss.SendSeverce.java&apos;" description="Copy compilation unit" destination="/src&lt;cn.Rivamed.Addresss" element1="/src&lt;cn.Rivamed.Addresss{SendSeverce.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1536642123253" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+
+qsquid:UselessImportCheck"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿH“RMINORZ
+CODE_SMELL
+nsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(×í²ÆHRMINORZ
+CODE_SMELL
+vsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ıè†¿H‘RBLOCKERZBUG
+\squid:S00108*")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿH’RMAJORZ
+CODE_SMELL

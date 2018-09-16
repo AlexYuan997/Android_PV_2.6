@@ -1,0 +1,24 @@
+
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼Ê——HŠRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â¶Ô¿ýÿÿÿÿ8Þ„ªºÜ,H RMAJORZ
+CODE_SMELL
+psquid:UselessImportCheck"1Remove this unused import 'java.net.InetAddress'.(ë³ƒÒÿÿÿÿÿHŒRMINORZ
+CODE_SMELL
+ssquid:S1118":Add a private constructor to hide the implicit public one.(Ë†òÒûÿÿÿÿ8Ý‚¬ºÜ,H©RMAJORZ
+CODE_SMELL
+{squid:UselessImportCheck"5Remove this unused import 'org.w3c.dom.CDATASection'.(Ê„¡·ÿÿÿÿÿ8À¹Ÿ¸Ü,H¨RMINORZ
+CODE_SMELL
+tsquid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(¡òÍîH‰RBLOCKERZBUG
+tsquid:UselessImportCheck"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿHRMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ùÍÍªøÿÿÿÿH‹RMINORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(±¤ª¹8­–£¸Ü,H±RMAJORZ
+CODE_SMELL
+fsquid:UselessImportCheck
+",Remove this unused import 'java.nio.Buffer'.(î¦ÏîHŽRMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck	":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿHRMINORZ
+CODE_SMELL

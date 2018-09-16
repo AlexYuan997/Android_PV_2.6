@@ -1,0 +1,19 @@
+package cn.Rivamed.tcpdemo1;
+
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class TCPServerForFile {
+	
+	
+	public static void reciveTCP()throws Exception{
+		
+		ServerSocket serverSocket=new ServerSocket(10001);
+		
+		Socket socket=serverSocket.accept();
+		
+		
+		
+	}
+
+}

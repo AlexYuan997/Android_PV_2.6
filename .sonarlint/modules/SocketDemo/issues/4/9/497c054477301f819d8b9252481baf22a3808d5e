@@ -1,0 +1,8 @@
+
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ùÍÍªøÿÿÿÿHĞRMINORZ
+CODE_SMELL
+€squid:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ8…Ïú·Ü,HãRBLOCKERZBUG
+€squid:UselessImportCheck	":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8·êú·Ü,HèRMINORZ
+CODE_SMELL
+{squid:UselessImportCheck"5Remove this unused import 'java.net.SocketException'.(¼„™€ûÿÿÿÿ8·êú·Ü,HçRMINORZ
+CODE_SMELL

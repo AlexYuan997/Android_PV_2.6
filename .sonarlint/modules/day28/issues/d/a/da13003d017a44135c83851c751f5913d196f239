@@ -1,0 +1,5 @@
+
+nsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(×í²ÆH‹RMINORZ
+CODE_SMELL
+wsquid:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Ê¶ùÿÿÿÿHŒRBLOCKERZBUG
+vsquid:S2095'"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ıè†¿HRBLOCKERZBUG

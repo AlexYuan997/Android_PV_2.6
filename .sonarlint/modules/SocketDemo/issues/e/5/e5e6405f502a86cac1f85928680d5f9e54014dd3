@@ -1,0 +1,15 @@
+
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Œçá¹øÿÿÿÿH…RMINORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(áù¿”8ëÕïÁÜ,HRMAJORZ
+CODE_SMELL
+~squid:UselessImportCheck"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8»Ù‚ÂÜ,H¢RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôıÿÿÿÿ8ÿŞ—ÂÜ,H®RMINORZ
+CODE_SMELL
+msquid:UselessImportCheck",Remove this unused import 'java.nio.Buffer'.(î¦Ïî8ò÷ÁÜ,H›RMINORZ
+CODE_SMELL
+zsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(¹ÌëÑÿÿÿÿÿ8§ĞŠÂÜ,H¤RMINORZ
+CODE_SMELL
+‚squid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(º §şÿÿÿÿ8ÖÿµÂÜ,HÇRBLOCKERZBUG
+ysquid:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(†²üî8ëÕïÁÜ,HŠRBLOCKERZBUG

@@ -1,0 +1,29 @@
+package cn.Rivamed.Addresss;
+
+import java.io.IOException;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+import java.net.Socket;
+import java.net.SocketException;
+import java.net.UnknownHostException;
+
+public class getUDPPacket {
+	Socket socket;
+	
+	private void sendUDPPacket() throws IOException {
+		byte [] bs="hello world".getBytes();
+		DatagramSocket datagramSocket=new DatagramSocket(10000, InetAddress.getLocalHost());
+		
+		DatagramPacket datagramPacket=new DatagramPacket(bs, bs.length, InetAddress.getLocalHost(), 1000);
+		
+		datagramSocket.send(datagramPacket);
+		
+		datagramSocket.close();
+		
+		
+		
+	}
+
+
+}

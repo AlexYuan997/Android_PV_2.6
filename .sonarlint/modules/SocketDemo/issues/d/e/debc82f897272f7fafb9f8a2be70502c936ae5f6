@@ -1,0 +1,16 @@
+
+usquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÖþûÃ8ÑÍÍÂÜ,HÙRMINORZ
+CODE_SMELL
+qsquid:S1197""8Move the array designator from the variable to the type.(æ¦œ¹þÿÿÿÿ8øþôÂÜ,H…RMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Œçá¹øÿÿÿÿH‡RMINORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÿ§¼Œ8¥ìÁÂÜ,HÐRMAJORZ
+CODE_SMELL
+ssquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.( ˜çå8¥ìÁÂÜ,HÎRBLOCKERZBUG
+l
+squid:S106("9Replace this use of System.out or System.err by a logger.(À–ÊÈ8§ÓßÂÜ,HçRMAJORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ï“½ÂÜ,HÉRINFOZ
+CODE_SMELL
+|squid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î8£ûÕÂÜ,HâRBLOCKERZBUG

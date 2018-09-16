@@ -1,0 +1,22 @@
+package cn.Rivamed.tcpdemo;
+
+import java.io.IOException;
+import java.net.InetAddress;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+public class TCPClient {
+	
+	
+	public static void sendTCP() throws Exception {
+		
+		Socket socket=new Socket(InetAddress.getLocalHost().getHostName(), 10001);
+		
+		
+		
+		
+		
+		
+	}
+
+}

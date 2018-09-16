@@ -1,0 +1,13 @@
+
+€squid:UselessImportCheck":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8ˆ›ÁÜ,H¼RMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‚Ø’ùÿÿÿÿH¦RMINORZ
+CODE_SMELL
+{squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÿ§¼Œ8ˆ›ÁÜ,HºRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢šº•ıÿÿÿÿ8¡¡ÁÜ,HùRMAJORZ
+CODE_SMELL
+ssquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.( ˜çå8ˆ›ÁÜ,H¸RBLOCKERZBUG
+vsquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ˆ›ÁÜ,H»RMINORZ
+CODE_SMELL

@@ -1,0 +1,5 @@
+package cn.rivamed.mode1;
+
+public class TCPServer {
+
+}

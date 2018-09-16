@@ -1,0 +1,160 @@
+
+h"squid:SwitchLastCaseIsDefaultCheck;""Add a default case to this switch.(Ì¹’ÜH)RCRITICALZ
+CODE_SMELL
+g"squid:SwitchLastCaseIsDefaultCheckV""Add a default case to this switch.(­†¥-H*RCRITICALZ
+CODE_SMELL
+i"squid:SwitchLastCaseIsDefaultCheck ""Add a default case to this switch.(ŠıĞH+RCRITICALZ
+CODE_SMELL
+i"squid:SwitchLastCaseIsDefaultCheckÄ""Add a default case to this switch.(˜ÌÛ—H,RCRITICALZ
+CODE_SMELL
+\squid:S1066“"/Merge this if statement with the enclosing one.(„œõH-RMAJORZ
+CODE_SMELL
+[squid:S1066è"/Merge this if statement with the enclosing one.(ÌĞç~H.RMAJORZ
+CODE_SMELL
+asquid:S1066õ"/Merge this if statement with the enclosing one.(¯™©‘øÿÿÿÿH/RMAJORZ
+CODE_SMELL
+squid:S3923Ä"[Remove this conditional structure or edit its code blocks so that they're not all the same.(˜ÌÛ—H0RMAJORZBUG
+†squid:S3923ñ"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Â×ÕêûÿÿÿÿH1RMAJORZBUG
+„
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÂéÖšH2RMINORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿH3RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¶Í”ÌıÿÿÿÿH4RMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬H5RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ƒ¤ÍÂıÿÿÿÿH6RMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(¯óÌ½H7RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ñé¨ùıÿÿÿÿH8RMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Œ“·àH9RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(å¶”ËøÿÿÿÿH:RMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(ÏôÍÆúÿÿÿÿH;RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(ü˜…´H<RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ßÆìİşÿÿÿÿH=RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(ËŠßÔÿÿÿÿÿH>RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(è¸îH?RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(¢‹ÁûÿÿÿÿH@RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ç¦èÖHARMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(ÊŠ‘úÿÿÿÿHBRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.( Éİ¡ùÿÿÿÿHCRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineŞ"<This block of commented-out lines of code should be removed.(åóÆ÷ıÿÿÿÿHDRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(¶±íÏHERMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(¯×—¶ıÿÿÿÿHFRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(¦‚µÕHGRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.(ºœ®PHHRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ò·›HIRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(¢²æöúÿÿÿÿHJRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.( °ĞïøÿÿÿÿHKRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Æ•èHLRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(ä¢èñşÿÿÿÿHMRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(šÖ“HNRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(ä¢èñşÿÿÿÿHORMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(ÕæŞ§ûÿÿÿÿHPRMAJORZ
+CODE_SMELL
+ysquid:HiddenFieldCheckÂ"<Rename "postion" which hides the field declared at line 257.(•ã±øÿÿÿÿHQRMAJORZ
+CODE_SMELL
+^squid:S1135×"2Complete the task associated to this TODO comment.(úßòĞHRRINFOZ
+CODE_SMELL
+csquid:S1135ç"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHSRINFOZ
+CODE_SMELL
+Tsquid:S1481"'Remove this unused "id" local variable.(â³ºHTRMINORZ
+CODE_SMELL
+Xsquid:S1481Ÿ"&Remove this unused "s" local variable.(®şîìøÿÿÿÿHURMINORZ
+CODE_SMELL
+Xsquid:S1481Ã"&Remove this unused "s" local variable.(®şîìøÿÿÿÿHVRMINORZ
+CODE_SMELL
+[squid:S1481À"/Remove this unused "doorOpened" local variable.(—ÚHWRMINORZ
+CODE_SMELL
+[squid:S1481Û"/Remove this unused "doorOpened" local variable.(—ÚHXRMINORZ
+CODE_SMELL
+[squid:S1481ê"/Remove this unused "doorOpened" local variable.(—ÚHYRMINORZ
+CODE_SMELL
+‚squid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ëÈÖ±HZRCRITICALZ
+CODE_SMELL
+zsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üû¶#H[RMINORZ
+CODE_SMELL
+€squid:S00100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£çø—ûÿÿÿÿH\RMINORZ
+CODE_SMELL
+€squid:S00100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£­°¢ùÿÿÿÿH]RMINORZ
+CODE_SMELL
+€squid:S00100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¦ÜµşÿÿÿÿH^RMINORZ
+CODE_SMELL
+{squid:S00100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûØ¡œH_RMINORZ
+CODE_SMELL
+|squid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àòëÌH`RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¢—HaRMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŒHbRMINORZ
+CODE_SMELL
+{squid:S00100»"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¡çbHcRMINORZ
+CODE_SMELL
+squid:S00100Ö"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŞĞÃıÿÿÿÿHdRMINORZ
+CODE_SMELL
+squid:S00100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä»ëıÿÿÿÿHeRMINORZ
+CODE_SMELL
+squid:S00100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶£ÿ¡şÿÿÿÿHfRMINORZ
+CODE_SMELL
+|squid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÈÖ±HgRMINORZ
+CODE_SMELL
+{squid:S00100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑµŒpHhRMINORZ
+CODE_SMELL
+squid:S00100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÚŞêıÿÿÿÿHiRMINORZ
+CODE_SMELL
+squid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•µÊ¸ıÿÿÿÿHjRMINORZ
+CODE_SMELL
+|squid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¡Ç½HkRMINORZ
+CODE_SMELL
+|squid:S00100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÇÙÑHlRMINORZ
+CODE_SMELL
+squid:S00100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğş¼ÛüÿÿÿÿHmRMINORZ
+CODE_SMELL
+squid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åêÑòûÿÿÿÿHnRMINORZ
+CODE_SMELL
+|squid:S00100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ã „HoRMINORZ
+CODE_SMELL
+|squid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…šÑéHpRMINORZ
+CODE_SMELL
+squid:S00100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¨¥îüÿÿÿÿHqRMINORZ
+CODE_SMELL
+|squid:S00100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÛ²ŠHrRMINORZ
+CODE_SMELL
+|squid:S00100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ­³°HsRMINORZ
+CODE_SMELL
+|squid:S00100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äóå™HtRMINORZ
+CODE_SMELL
+Usquid:S1172z")Remove this unused method parameter "id".(ûØ¡œHuRMAJORZ
+CODE_SMELL
+jsquid:S1854À">Remove this useless assignment to local variable "doorOpened".(—ÚHvRMAJORZ
+CODE_SMELL
+jsquid:S1854Û">Remove this useless assignment to local variable "doorOpened".(—ÚHwRMAJORZ
+CODE_SMELL
+jsquid:S1854ê">Remove this useless assignment to local variable "doorOpened".(—ÚHxRMAJORZ
+CODE_SMELL

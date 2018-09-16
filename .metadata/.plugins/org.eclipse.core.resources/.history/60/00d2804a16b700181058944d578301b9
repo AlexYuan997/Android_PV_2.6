@@ -1,0 +1,59 @@
+package cn.rivamed.mode1;
+
+import java.awt.List;
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.ArrayList;
+
+import cn.rivamed.Utils.ThreadPool;
+
+
+
+public class TCPThreadServer {
+	
+	
+	List<TCPClinet> list=new ArrayList<TCPClinet>();
+
+//	static Thread thread;
+	public static void main(String[] args) {
+		ServerSocket server = null;
+		try {
+			server = new ServerSocket(8014);
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		while(true){
+		//获取到一个客户端,必须开启新线程
+		Socket socket;
+		try {
+			
+			socket = server.accept();
+//			System.out.println("接收到新的客戶端鏈接請求。。。"+socket.getRemoteSocketAddress());
+			
+			if (socket!=null) {
+				TCPClinet clinet=new TCPClinet(socket);
+				
+		//获得一个监听的数据就成功连接池中获取一个线程 
+				ThreadPool.getExecutorService().submit(clinet);
+				
+				
+			}
+		
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		}
+		
+	
+		
+		//程序结束关闭线程池
+		
+
+		
+	}
+
+
+}

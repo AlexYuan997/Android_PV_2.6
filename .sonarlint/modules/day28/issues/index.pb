@@ -1,0 +1,23 @@
+
+W
+'src/cn/itcast/demo/InetAddressDemo.java,d\b\db31a7b15007631da32327a4ed890010059095b5
+S
+#src/cn/itcast/demo1/UDPReceive.java,f\9\f9b87d88234f6b037bfe4b50446b25c17888fd57
+P
+ src/cn/itcast/demo1/UDPSend.java,4\e\4e8f95b71f1628f82b18e96fb6dab7851c8808b1
+S
+#src/cn/itcast/demo2/UDPReceive.java,0\2\02868d1d25e02b871e569966ce5e4f67ce9ee633
+P
+ src/cn/itcast/demo2/UDPSend.java,0\3\0301c700b194f3fea91b3dcc6ca2ebfd4b82ce64
+R
+"src/cn/itcast/demo3/TCPClient.java,9\0\906d8c666baaf3180a0d7a3bf27448398008f8b3
+R
+"src/cn/itcast/demo3/TCPServer.java,e\d\ed3c434cd25c609dc7e7d9b661334e4431b32d3a
+R
+"src/cn/itcast/demo4/TCPServer.java,d\a\da13003d017a44135c83851c751f5913d196f239
+O
+src/cn/itcast/demo4/Upload.java,0\8\0832f75367a82c5a1be90fc09b3d2468a5b86545
+X
+(src/cn/itcast/demo4/TCPThreadServer.java,d\c\dce89e529038e9b1138f6b5996ad7632778b1a0a
+R
+"src/cn/itcast/demo4/TCPClient.java,a\b\ab87c5611347febe0f7a780477190450587bb487

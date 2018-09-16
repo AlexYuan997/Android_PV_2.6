@@ -1,0 +1,11 @@
+
+…squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(èñ±úÿÿÿÿH‡RMINORZ
+CODE_SMELL
+‡squid:ModifiersOrderCheck	"EReorder the modifiers to comply with the Java Language Specification.(á’Ÿş8ºµİ,H™RMINORZ
+CODE_SMELL
+Œsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(˜±Çäıÿÿÿÿ8¨‡¢İ,H½RMINORZ
+CODE_SMELL
+Šsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(É÷¢»ùÿÿÿÿH‰RMINORZ
+CODE_SMELL
+lsquid:S1118":Add a private constructor to hide the implicit public one.(¥ÕƒºüÿÿÿÿHˆRMAJORZ
+CODE_SMELL
